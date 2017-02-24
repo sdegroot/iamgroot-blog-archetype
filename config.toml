@@ -76,7 +76,7 @@ canonifyurls = true
   identifier = "linkedin"
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
-  url = "https://www.linkedin.com/in/sdg91t"
+  url = "https://www.linkedin.com/in/sdg91"
 
 [[menu.misc]]
   weight = 0
