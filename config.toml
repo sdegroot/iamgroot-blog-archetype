@@ -77,6 +77,12 @@ canonifyurls = true
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
   url = "https://www.linkedin.com/in/sdg91"
+[[menu.links]]
+  weight = 1
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://www.twitter.com/lovetoautomate"
 
 [[menu.misc]]
   weight = 0
