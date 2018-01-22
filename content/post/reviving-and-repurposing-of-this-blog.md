@@ -6,11 +6,13 @@ tags:
 - personal
 keywords:
 - tech
+thumbnailImagePosition: left
 thumbnailImage: images/recycle-thumbnail.png
 ---
 
-## A little history
 It's been almost a year since my last post. I've always wanted to write an active blog but I somehow never find the time or the energy to start writing. It's really a shame because writing usually really helps me with digesting my thoughts. Wether this is on a personal or on a professional level, writing helps me to think clearly. 
+
+<!--more-->
 
 I'm a fanatic reader of other peoples blogs, especially blogs related to my profession. The more I did this, the more I felt that I should return the favor to other people. And thus, I created this blog. Unfortunately it hasn't gone as I imagined. Being a bit of a perfectionist (ask anyone), I tend to want to share only about things I'm really knowledgable about. Just imaginging writing about a subject and then later finding out that I was incorrect makes me shiver. Funny enough, while writing this down I realize how foolish it is. I mean, everyone is allowed to make mistakes, right?
 
