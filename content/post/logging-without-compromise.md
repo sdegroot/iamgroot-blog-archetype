@@ -1,6 +1,6 @@
 +++
 keywords = ["logging","logback","performance","reference-implementation","debug logging"]
-tags = ["logging","performance","logback","java","improvement","tools"]
+tags = ["logging","performance","logback","java","improvement","tools","techical"]
 categories = ["Tips and tricks"]
 date = "2017-02-24T20:00:00Z"
 title = "Logging without compromising on detail or performance"
