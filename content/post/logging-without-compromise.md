@@ -4,7 +4,8 @@ tags = ["logging","performance","logback","java","improvement","tools","techical
 categories = ["Tips and tricks", "Technology"]
 date = "2017-02-24T20:00:00Z"
 title = "Logging without compromising on detail or performance"
-
+thumbnailImagePosition = "left"
+thumbnailImage = "https://blogs.infosupport.com/wp-content/uploads/2016/08/logbacklogo.jpg"
 +++
 
 Application logging. Have you ever had to choose between detailled logging or performance?

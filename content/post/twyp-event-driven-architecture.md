@@ -4,6 +4,8 @@ tags = ["twyp","event driven architecture","architecture","micro services","reac
 categories = ["Talk", "Technology"]
 date = "2016-12-12T12:00:00Z"
 title = "Talk: TWYP - An event driven architecture in a fast growing ecosystem"
+thumbnailImagePosition = "left"
+thumbnailImage = "images/twyp-logo-thumbnail.png"
 
 +++
 
