@@ -1,0 +1,6 @@
+.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
+    width: auto;
+    max-width: 140px;
+    height: auto;
+    max-height: 140px;
+}
