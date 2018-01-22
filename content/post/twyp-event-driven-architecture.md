@@ -1,7 +1,7 @@
 +++
 keywords = ["twyp","event driven architecture","architecture","best practices"]
 tags = ["twyp","event driven architecture","architecture","micro services","reactive manifesto","techical"]
-categories = ["Talk"]
+categories = ["Talk", "Technology"]
 date = "2016-12-12T12:00:00Z"
 title = "Talk: TWYP - An event driven architecture in a fast growing ecosystem"
 
