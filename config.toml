@@ -4,7 +4,7 @@ defaultContentLanguage = "en-us"
 title = "Lovetoautomate.it - Blog of Sander de Groot"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
-googleAnalytics = "UA-92528488-1'"
+googleAnalytics = "UA-92528488-1"
 paginate = 7
 canonifyurls = true
 
