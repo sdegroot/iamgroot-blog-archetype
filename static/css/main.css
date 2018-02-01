@@ -4,3 +4,7 @@
     height: auto;
     max-height: 140px;
 }
+
+img[src$="#floatright"] {
+	float: right !important;
+}
