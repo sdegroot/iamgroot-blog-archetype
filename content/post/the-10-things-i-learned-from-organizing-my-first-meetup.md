@@ -1,5 +1,5 @@
 ---
-title: "Organizing the first Netherlands Camunda User Group Meetup"
+title: "The 10 things I learned from organizing my first meetup"
 date: 2018-01-31T07:56:13+01:00
 categories:
 - technology
@@ -11,6 +11,8 @@ keywords:
 - technology
 - meetup
 - organizing
+aliases:
+- /2018/01/organizing-the-first-netherlands-camunda-user-group-meetup/
 coverImage: /images/camunda-meetup/startup-village.jpg
 thumbnailImage: images/camunda-meetup/startup-village-thumbnail.jpeg
 thumbnailImagePosition: left
