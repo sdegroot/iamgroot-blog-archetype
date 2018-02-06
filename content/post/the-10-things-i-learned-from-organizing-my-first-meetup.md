@@ -18,7 +18,7 @@ thumbnailImage: images/camunda-meetup/startup-village-thumbnail.jpeg
 thumbnailImagePosition: left
 ---
 
-Finally it happened. On 30 januari 2018 I have organized [my first meetup](https://www.meetup.com/Netherlands-Camunda-User-Group/events/245891545/) for the [Netherlands Camunda User Group](https://www.meetup.com/Netherlands-Camunda-User-Group/). What an experience was this. So much has happened to make this event come to live and using this blog post I want to share my experiences in the hopes to inspire others!
+Finally it happened. On 30 januari 2018 I have organized [my first meetup](https://www.meetup.com/Netherlands-Camunda-User-Group/events/245891545/) for the [Netherlands Camunda User Group](https://www.meetup.com/Netherlands-Camunda-User-Group/). What an experience was this. So much has happened to make this event come to life and using this blog post I want to share my experiences in the hopes to inspire others!
 
 <!--more-->
 
