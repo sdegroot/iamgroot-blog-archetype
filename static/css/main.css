@@ -6,5 +6,15 @@
 }
 
 img[src$="#floatright"] {
-	float: right !important;
+    float: right !important;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img[src$="#floatleft"] {
+    float: left !important;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
