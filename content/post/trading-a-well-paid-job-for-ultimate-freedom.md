@@ -15,6 +15,7 @@ keywords:
 thumbnailImage: /images/travelling/other-side-of-the-world-thumbnail.png
 thumbnailImagePosition: left
 coverImage: /images/travelling/freedom-banner.jpg
+description: Sometimes you have to make a decision in your life that goes against everything you ever learned. Recently I made such a decision by quitting my job and buying a ticket to the other side of the world. And now the adventure begins...
 ---
 
 Sometimes you have to make a decision in your life that goes against everything you ever learned. Recently I made such a decision by quitting my job and buying a ticket to the other side of the world. 
