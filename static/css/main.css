@@ -1,3 +1,16 @@
+body article pre {
+    width: 100% !important;
+}
+
+body article pre code {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal !important;
+}
+
 .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
     width: auto;
     max-width: 140px;
@@ -18,3 +31,4 @@ img[src$="#floatleft"] {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
