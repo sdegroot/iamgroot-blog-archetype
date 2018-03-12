@@ -25,7 +25,7 @@ And now the adventure begins...
 
 ## Realization
 
-It's a Tuesday morning around 07:15 AM in the train to work. I realize that I only have 13 workdays left before my big adventure begins. It feels a bit strange as my life is about to change drastically. I started my professional career officially in 2012 but I practically started working in the IT industry way before that (2008). So for the last six years my life consisted of _at least_ (yes I am sort of a workaholic) 40 hour workweeks, architecting and developing (new) software products. 
+It's a Tuesday morning around 07:15 AM in the train to work. I realize that I only have 13 workdays left before my big adventure begins. It feels a bit strange as my life is about to change drastically. I started my professional career officially in 2012 but I practically started working in the IT industry way before that (2008). So for the last six years my life consisted of _on average_ 50 hour workweeks, architecting and developing (new) software products. 
 
 In the last couple of years, I noticed that my life became more and more socially conformant. Everyday getting up at the same time, commuting to work, doing your job, having dinner and going to bed early. Of course, the weekends were still filled with lots of activities. However, if you make up the accounts, you're spending at least 70% of your life in such a way so that you can do what society wants you to do.
 
