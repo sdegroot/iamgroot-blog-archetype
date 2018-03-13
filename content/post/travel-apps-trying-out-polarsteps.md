@@ -168,3 +168,9 @@ What do I want to write here?
 - Good things about it
 - Less good things about it
 - FAQ
+
+
+Feature requests
+- I don't want to make steps of a day. please allow me to set weeks or or place
+- I want concepts! Without anyone being notified
+- I want the side bar in the website to be closable 
