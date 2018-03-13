@@ -32,3 +32,6 @@ img[src$="#floatleft"] {
     margin-bottom: 10px;
 }
 
+.inline-block {
+    display: inline-block !important;
+}
