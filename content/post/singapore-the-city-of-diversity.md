@@ -52,15 +52,15 @@ Want to see more? Follow me on [Polarsteps](https://www.polarsteps.com/luminosit
 
 ## Deciding where to go
 
-It's strange, while writing this blog I am trying to remember why I started my journey in Singapore again... I think it was a rainy 30 december 2017 on my own couch, around midnight, when my friend Megan from Wales inspired me to stop procastrinating and just buy a damn ticket to New Zealand. Apparently I had been talking about New Zealand so much that everyone except me knew that this should be my first stop. And well, when your friends tell you to do something, you do it right? ;-)
+It's strange, while writing this blog I am trying to remember why I started my journey in Singapore again... I think it was a rainy 30 december 2017 on my own couch, around midnight, when my friend Megan inspired me to stop procastrinating and just buy a damn ticket to New Zealand. Apparently I had been talking about New Zealand so much that everyone, except me, knew that this should be my first stop. And well, when your friends tell you to do something, you do it right? ;-)
 
-The big problem with New Zealand however, is that it is so ridiculously far away. Direct flights from Amsterdam do not exist and if I recall correctly, the cheapest flight to New Zealand was about 500 euro (one-way) and took like 36 hours. This posed two problems for me. First, 500 euro is a lot of money. If you know what you are doing, you can almost live a month off 600 euro in South-East Asia. But more importantly, who in the world likes to travel 36 hours straight? Not me, that is for sure.
+The big problem with New Zealand however, is that it is so ridiculously far away. Direct flights from Amsterdam do not exist and if I recall correctly, the cheapest flight to New Zealand was about 500 euro (one-way) and took like 36 hours. This posed two problems for me. First, 500 euro is a lot of money. If you know what you are doing, you can almost live a month off 500 euro in South-East Asia. But more importantly, who in the world likes to travel 36 hours continuously? Not me, that is for sure.
 
-So I decided to do a stay-over in a popular transit city-hub. It ended up being Singapore, with the reason being that I found the cheapest flights from Amsterdam to Singpore and from Singapore to Christchurch.  In total these two cost me a little more than the "direct" flight, but it presented a much more relaxed approach to getting to New Zealand.
+So I decided to do a stay-over in a popular transit city-hub. It ended up being Singapore, with the reason being that the cheapest flights I found where from Amsterdam to Singpore. In total these two cost me a little more than the "direct" flight, but it presented a much more relaxed approach to getting to New Zealand.
 
 ## Arrival 
 
-My flight to Singapore went by in a flash. I was quite lucky as I got a whole row of seats to myself. Well, unfortunately, this was only true for the flight to Helsinki. The part from Helsinki to Singapore wasn't that much worse though, because I got to share _three_ seats with only a really cool guy from Lithuania, called Šarūnas. So, again lots of legroom! 
+My flight to Singapore went by in a flash. I was quite lucky as I got a whole row of seats to myself. Well, unfortunately, this was only true for the flight to Helsinki. The part from Helsinki to Singapore wasn't that much worse though, because I got to share _three_ seats with a really cool guy from Lithuania, called Šarūnas. So, again lots of legroom! 
 
 ![Lots of legroom in the plane](/images/travelling/singapore/flight-legroom.jpg#floatright)
 
@@ -68,33 +68,39 @@ On March 13, 2018 at 17:10 we touched down in Singapore! Šarūnas was only tran
 
 One of my primary goals of this journey is to *not* plan everything in advance, like I normally do. This journey is about going with the flow and see where it takes me. Forcing me to already buy a ticket out of a country before I even entered it, doesn't really fit that picture, now does it? 
 
-Later, I learned from some people I met in Singapore, that it's not very common to be asked for a flight out, but that it can happen. And if you are asked, they may just check if this flight even exists. At that time you have three options: you lie and give a random flight number, you tell them the truth or you buy a ticket on the spot. The first option is probably not the best idea, especially considering how rude and strict most customs employees are. Being honest works sometimes, or so I have been told by my friend Sven. I guess when you are wearing a backpack and generally look like a traveller, they know you won't stay long anyway. However, they may actually not allow to enter the country. When this happens, you can just buy the cheapest ticket out of the country and try to pass customs again. And as flights in Asia can be as cheap as 25 euro, you don't lose a lot of money in the process. 
+Later, I learned from some people I met in Singapore, that it's not very common to be asked for a flight out, but that it can happen. And if you are asked, they may just check if this flight even exists. At that time you have three options: 
+
+1. You lie and give a random flight number
+2. You tell them the truth or;
+3. You buy a ticket on the spot. 
+
+The first option is probably not the best idea, especially considering how rude and strict most customs employees are. Being honest works sometimes, or so I have been told by my friend Sven. I guess when you are wearing a backpack and generally look like a traveller, they know you won't stay long anyway. However, they may actually not allow to enter the country. When this happens, you can just buy the cheapest ticket out of the country and try to pass customs again. And as flights in Asia can be as cheap as 25 euro, you don't lose a lot of money in the process. 
 
 After this, it was not much more than collecting my backpack and taking the first metro to the hostel!
 
 ## The gang of four
 
-The [hostel](https://www.facebook.com/The-InnCrowd-Backpackers-Hostel-180672357157) I booked is located in the Little India district. It's a nice and cozy hostel that provides good value for money. This latter bit is probably why there were so many Dutch people... I think I was one of the first to arrive, but literally five minutes after me, Dionne arrived. Not one hour later, this guy called Ben arrived and you never guess but not long after another Dutch guy arrived: Sven. As if it was meant to be...
+The [hostel I booked](https://www.facebook.com/The-InnCrowd-Backpackers-Hostel-180672357157)  is located in the Little India district. It's a nice and cozy hostel that provides good value for money. This latter bit is probably why there were so many Dutch people... I think I was one of the first to arrive, but literally five minutes after me, Dionne arrived. Not one hour later, this guy called Ben arrived and you never guess but not long after another Dutch guy arrived: Sven. As if it was meant to be...
 
-Normally I prefer to mingle as much with other cultures, but we just got along so well! Not that we weren't open to others though! After a couple of days a guy from India called Ruchik joined us on our quest to discover Singapore.
+Normally I prefer to mingle as much with other cultures as possible, but we just got along so well! Not that we weren't open to others though! After a couple of days a guy from India called Ruchik joined us on our quest to discover Singapore.
 
 ![Marina Bay Sands Hotel - gang of four](/images/travelling/singapore/marina-bay-sands-gang.jpg#floatright)
  
-Boy, we shared some good times together in Singapore! Unfortunately Ben is missing on all of our pictures; he left relatively soon.
+We shared some good times together in Singapore! Will miss you guys. Unfortunately Ben is missing on all of my pictures; he found it necessary to leave early to Indonesia...
 
 ## My favorite places in Singapore
 
-It took me a while to get adjusted to my new situation. Barely a week ago I was still working in Amsterdam and suddenly I was standing in the city center of Singapore. Honestly, I still don't really realize what the heck happened, I am getting there though. But spending the last six days in Singapore with such great people definitely helped me shredding the daily routine I am so used to.
+It took me a while to get adjusted to my new situation. Barely a week ago I was still working in Amsterdam and suddenly, here I was, standing in the city center of Singapore. Honestly, I still don't really realize what the heck happened, I am slowly getting there though. But spending the last six days in Singapore with such great people definitely helped me shredding the daily routine I am so used to.
 
-Now, let's finally start talking about the subject of this article.. Singapore is a city that can not be categorized. This city is comprised of so many cultures, has a rich history and has less than 720km<sup>2</sup> surface area. I think that because of Singapore's small size, it will make governing the country so much more efficient. In the modern districts of the city you can find perfect examples of this. The government is able to turn Singapore into [one of the most modern cities of the world](https://theculturetrip.com/asia/japan/articles/the-10-most-modern-cities-in-the-world/). The best example of this is the [Gardens by the Bay](www.gardensbythebay.com.sg). They've build this amazingly beautiful Garden that even has a lot of [sustainable properties](http://www.gardensbythebay.com.sg/en/the-gardens/sustainability-efforts.html).
+Now, let's finally start talking about the subject of this article.. Singapore is a city that can not be categorized. This city is comprised of so many cultures, has a rich history and has less than 720km<sup>2</sup> surface area. I think that because of Singapore's small size, it makes governing the country that much more efficient. In the modern districts of the city you can find perfect examples of this. The government is able to turn Singapore into [one of the most modern cities of the world](https://theculturetrip.com/asia/japan/articles/the-10-most-modern-cities-in-the-world/). The best example of this is the [Gardens by the Bay](www.gardensbythebay.com.sg). They've build this amazingly beautiful Garden that has a lot of [sustainable properties](http://www.gardensbythebay.com.sg/en/the-gardens/sustainability-efforts.html).
 
 ![Gardens by the bay](/images/travelling/singapore/gardens-by-the-bay1.jpg)
  
-The Gardens by the Bay were definitely my favorite spot in the whole of Singapore. If I am ever going back to Singapore, I am going to spend so much more time here. I honestly can sit there for hours straight on, just enjoying the views. My second favorite spot you can find in just 5 minutes walk from the gardens: Marina Bay.
+The Gardens by the Bay were definitely my favorite spot in the whole of Singapore. If I am ever going back to Singapore, I am going to spend so much more time here. I honestly can sit there for hours, just enjoying the view. My second favorite spot you can find in just 5 minutes walk from the gardens: Marina Bay.
 
 ![Marina Bay](/images/travelling/singapore/marina-bay1.jpg)
 
-Marina Bay is one of, if not the, most modern area's of the city. A really nicely lighted skyline directly on the waterfront makes some stunning views. And when previously I said that I could sit for hours on straight just watching the Gardens by the Bay? Exactly the same applies to Marina Bay. Especially at night, when you will be overwhelmed with impressions of all the buildings, lighting systems and art installations. 
+Marina Bay is one of, if not the, most modern area's of the city. A really nicely lit skyline directly on the waterfront makes for some stunning views. And when previously I said that I could sit for hours on straight just watching the Gardens by the Bay? Exactly the same applies to Marina Bay. Especially at night, when you will be overwhelmed with impressions of all the buildings, lighting systems and art installations. 
 
 ```
 A visit to Marina Bay is guaranteed to bombard your senses. With land reclamation works starting only in the 1970s, the transformation of the area has been nothing short of a miracle.
@@ -168,5 +174,3 @@ Christchurch, here I come!
 If you are interested in more, follow me on [Polarsteps](https://www.polarsteps.com/luminosity/503421-backpacking-oceania-and-south-east-asia) :-).
 
 ## Photo gallery
-
-All the photos.
