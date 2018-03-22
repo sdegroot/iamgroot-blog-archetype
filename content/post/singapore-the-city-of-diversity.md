@@ -126,25 +126,25 @@ There are of course many more places that are really nice as well. On the bottom
 
 Nothing is perfect, right? Not even Singapore. Well, to be honest, I don't really have anything to complain about. Kinda weird, I am Dutch, afterall? But on a more serious note, something really weird was going on in the hostel.
 
-Everyone has heard about those stereotypical Nigerian e-mail spam-/scammers. Well, this hostel had one of those except a real-life one. No, he was not Nigerian, according to his story, he is from Brazil. And in Brazil he has a lot of billionaire friends that he wanted me to meet. He promised that these powerful friends would fund my business. He would introduce me to them a "small fee" of 30,000 SGD. So, the question was if I wanted to exchange phone numbers and e-mail so we could set-up the meet.
+Everyone has heard about those stereotypical Nigerian e-mail spam-/scammers. Well, this hostel had one of those except a real-life one. No, he was not Nigerian, according to his story, he is from Brazil. And in Brazil he has a lot of billionaire friends that he wanted me to meet. He promised that these powerful friends would fund my business. He would introduce me to them for a "small fee" of 30,000 SGD. So, the question was if I wanted to exchange phone numbers and e-mail so we could set-up the meet.
 
 I think I have talked to him for about 15 minutes or so. He just kept talking, while he already lost me after two minutes or so. Initially it was quite funny, mostly because it was obviously fake. However, he kept hanging around and slept in the hostel as well. He was there, everyday, talking to other guests of the hostel. You should have seen the faces of the people that he was talking to. "What the heck is this, please help me!!".
 
 It's unlikely that he has found a willing victim by now. After all, most people that go to a hostel aren't very wealthy to begin with, right? ;-)
 
-## The cheapest Michellin-star restaurant in the world
+## The cheapest Michelin-star restaurant in the world
 
-A couple of years ago it was even in the Dutch news: Streetfood restaurant in Singapore gets a Michellin-star. How cool, a streetfood restaurant that gets recognized with such a prestegious thing. And the best thing? The prices are nothing like what you would expect from a Michellin-star restaurant. Back then you could get their dishes for 4-7 SGD. Today they did increase their prices a bit: between 6 and 9 SGD. Can you imagine? Having a Michellin breakfast/lunch or dinner for less than 4 euro?
+A couple of years ago it was even in the Dutch news: [Streetfood restaurant in Singapore gets a Michelin-star](https://www.ad.nl/nieuws/michelinster-voor-goedkoop-straattentje-in-singapore~ae2ca277/). How cool, a streetfood restaurant that gets recognized with such a prestegious thing. And the best thing? The prices are nothing like what you would expect from a Michelin-star restaurant. Back then you could get their dishes for 4-7 SGD. Today they did increase their prices a bit: between 6 and 9 SGD. Can you imagine? Having a Michelin breakfast/lunch or dinner for less than 4 euro?
 
-This was a must-visit for Singapore. So we did. Unfortunately we may have had too many expectations. Some of us didn't even like the food (at all). It also didn't look very nice, kinda grey-ish. Personally, it took me a while but after a couple of bites I got used to the taste. But I can't really say that I enjoyed it very much. I definitely had better tasting food in a lot more cheaper places.
+This was a must-visit for Singapore. So we did. Unfortunately we may have had too high expectations. Some of us didn't even like the food (at all). It also didn't look very nice, kinda grey-ish. Personally, it took me a while but after a couple of bites I got used to the taste. But I can't really say that I enjoyed it very much. I definitely had better tasting food in a lot cheaper places.
 
-I didn't even make pictures of the food itself. Not sure what that says but I can tell you that we weren't planning to stand in line for 1-2 hours again.
+I didn't even make pictures of the food itself. Not sure what that says, but I can tell you that we weren't planning to stand in line for 1-2 hours again.
 
-{{< image src="/images/travelling/singapore/michellin-star-streetfood.jpg" thumbnailWidth="100px" classes="fancybox" title="Michellin star restaurant">}}
+{{< image src="/images/travelling/singapore/michellin-star-streetfood.jpg" thumbnailWidth="100px" classes="fancybox" title="Michelin star restaurant">}}
 
 ## Practical tips
 
-What I really like about going to hostels, is that you get to meet so many other people. Everyone you talk to has different experiences and his or her own story. And as the "backpackers (sub-)culture" is a really open one, sharing is not a problem! 
+What I really like about going to hostels, is that you get to meet so many other people. Everyone you talk to has different experiences and has his or her own story. And as the "backpackers (sub-)culture" is a really open one, sharing is not a problem! 
 
 In my previous trips I have learned quite a lot already. But going to South-East Asia and Australia for six months required me to learn a few more things. In this blog post there's three tips that really made the difference for me in Singapore:
 
