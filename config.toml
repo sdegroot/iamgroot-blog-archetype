@@ -1,7 +1,7 @@
 baseurl = "https://lovetoautomate.it/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Lovetoautomate.it - Blog of Sander de Groot"
+title = "Lovetoautomate.it - Sander de Groot - Nomadic Software Engineer"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-92528488-1"
@@ -18,7 +18,7 @@ canonifyurls = true
 
 [author]
   name = "Sander de Groot"
-  bio = "Loves to automate <i class='fa fa-lg fa-cogs'></i> and travel <i class='fa fa-lg fa-suitcase'></i> the world!"
+  bio = "Nomadic freelance software engineer <i class='fa fa-lg fa-cogs'></i> <i class='fa fa-lg fa-suitcase'></i>"
   job = "Fullstack Software Engineer/Architect"
   location = "Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
