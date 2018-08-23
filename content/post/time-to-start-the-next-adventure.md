@@ -1,6 +1,6 @@
 ---
 title: "Time to start the next adventure"
-date: 2018-08-14T16:56:03+02:00
+date: 2018-08-22T16:56:03+02:00
 categories:
 - digital nomad
 tags:
