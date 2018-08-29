@@ -91,6 +91,13 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-suitcase\"></i>"
   url = "https://www.polarsteps.com/luminosity"
 
+[[menu.links]]
+  weight = 4
+  identifier = "gpg"
+  name = "Public key"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-key\"></i>"
+  url = "/pubkey/sdegroot_lovetoautomate.it.pub"
+
 
 [[menu.misc]]
   weight = 0
