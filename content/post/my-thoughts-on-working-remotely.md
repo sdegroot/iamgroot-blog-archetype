@@ -21,6 +21,8 @@ keywords:
 - mindset
 - communication
 - collaboration
+aliases:
+- /2018/09/my-thoughts-about-working-remotely/
 coverImage: /images/digital-nomad/macbook-in-forest.jpg
 thumbnailImage: /images/digital-nomad/remote-control.png
 thumbnailImagePosition: left
