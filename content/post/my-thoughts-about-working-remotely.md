@@ -1,6 +1,6 @@
 ---
-title: "My thoughts about working remotely"
-date: 2018-09-05:10:24+02:00
+title: "My thoughts on working remotely"
+date: 2018-09-05T09:28:41+02:00
 categories:
 - digital nomad
 tags:
@@ -46,7 +46,7 @@ There's more and more companies operating with their employees working either fu
 
 In my search for my first assignment, I found [remotive.io](https://remotive.io). This site, an initiative by [Rodolphe Dutel](https://www.linkedin.com/in/rodolphedutel/), helps remote workers on their quest to find remote jobs. They've created an extensive list of companies that not only allow remote work, but are also _currently hiring_. You can find this sheet [here](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369). 
 
-Remotive is just one of the many examples why I want to move into the digital nomad world. Everyone seems to be eager to help each other, and in may ways make everyones life that much better. Unfortunately, only a few of the companies listed is Dutch. This is where the problem for me personally cones in. I like to make it a little more challenging by focussing on the Dutch market first. 
+Remotive is just one of the many examples why I want to move into the digital nomad world. Everyone seems to be eager to help each other, and in many ways make everyones life that much better. Unfortunately, only a few of the companies listed is Dutch. This is where the problem for me personally comes in. I like to make it a little more challenging by focussing on the Dutch market first. 
 
 ## Why allow working remote?
 
@@ -68,7 +68,7 @@ Ofcourse this doesn't mean that you do not have a need for office space anymore.
 
 The two previous points are kind of nice to haves but not the most important advantage. There is something much better that can be gained by allowing remote work. According to some studies and experiments<sup>[[1]](https://phys.org/news/2018-02-home-happier-youre.html)[[2]](https://www.forbes.com/sites/victorlipman/2016/05/02/are-remote-workers-happier-and-more-productive-new-survey-offers-answers/#51c905646663)[[3]](https://open.buffer.com/state-remote-work-2018/)[[4]](https://remote.co/how-working-from-home-makes-people-happier/)</sup> remote work can be beneficial for the employee happiness. And employee happiness usually leads to higher productivity [[1]](http://fortune.com/2015/10/29/happy-productivity-work/).
 
-A lot of people also experience office work as beig less productive. This is usually because they get easily distracted by their [colleagues](https://www.fastcompany.com/40419045/what-to-do-when-the-biggest-office-distraction-is-your-coworkers). Other reasons for loss of productivity include: noise of an open-office, visual pollution due to many people moving around [[1]](https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html) and many useless meetings. This last item is one of my own experiences. I will admit, it is more complicated to have a meeting with people virtually versus physically. However, one great benefit of this, is that people will be much more inclined to only have useful meetings. Useless meetings would even become more annoying if you'd have to do them virtually.
+A lot of people also experience office work as being less productive. This is usually because they get easily distracted by their [colleagues](https://www.fastcompany.com/40419045/what-to-do-when-the-biggest-office-distraction-is-your-coworkers). Other reasons for loss of productivity include: noise of an open-office, visual pollution due to many people moving around [[1]](https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html) and many not-so-useful meetings. This last item is one of my own experiences. I will admit, it is more complicated to have a meeting with people virtually versus physically. However, one great benefit of this, is that people will be much more inclined to only have useful meetings. You will notice that you will have less meetings and the ones that you will have, will likely be more productive. But this is subject for a whole new blog post.
 
 So by giving people more freedom by letting them work from any place they desire, has many benefits. However, there is also one major risk to take into account. Not everyone is capable of this level of autonomy. There is a need for discpline and self-direction.  
 
@@ -98,7 +98,7 @@ All of the above mentioned aspects can be managed. The most important takeaway f
 
 ### The ghost employee
 
-I can imagine, when companies want to try remote working, they'll assign one employee to start working remote. In most cases, this experiment will be doomed to fail for one reason:
+Even if you have all of the concerns covered, once you want to give working remote a try, you will have to avoid making a painful mistake. Sometimes, when companies want to try remote working, they'll assign one employee to start working remote. In most cases, this experiment will be doomed to fail for one simple reason:
 
 ```
 - An unequal balance of power -
@@ -118,19 +118,22 @@ Some people will tell you they thrive better by working at the office. Their arg
 
 Anyway, my point here, is that the preference for working remote is subjective. The last six years, I have worked at offices and I loved it. Honestly, I still wouldn't mind working at an office. But at the same time, I dream of the flexibility of working from anywhere in the world. Finding your space that inspires you the most and allows you to work most effectively. I recommend reading the book _Extreme Productivity_ by _Robert C. Frozen_ to read more about these ideas.
 
-To answer the question of this section, I want to work remote because
+Instead of answering the question myself, I will ask you to think about the following questions
 
-- It will allow me to experience more of the world (as a digital nomad)
-- I believe it will boost my productivity 
-- It provides the flexibility I am looking for
-- It will allow me to network more (as I will be staying in coliving and coworking spaces)
-- (Almost) no commuting anymore
-
-One very important thing I want to convey as well, is that in no way I am advocating that everyone should work remote, nor am I saying that I will never work in regular office anymore.
+- What will working remote do to your flexibility?
+- How will working remote affect your productivity?
+- What effect will working remote have on your personal life?
+- In what way will your schedule be affected if you could work remote?
+- What advantages and disadvantages do you see?
+- Where would you work, if you could work remotely?
 
 ## Footnote
 
-I am in no way an expert on the subject of remote work. This article was written purely from my personal perspective but based on others articles, books and stories. The goal of this article is purely to activate people to think a little more about the subject. I welcome any feedback regarding this article.
+I am in no way an expert on the subject of remote work. This article was written purely from my personal perspective but based on others articles, books and stories. The goal of this article is purely to activate people to think a little more about the subject. 
+
+And one very important thing I want to convey as well, is that I am not advocating that everyone should work remote, nor am I saying that I myself will never work in regular office anymore.
+
+Do you have any feedback? That's always welcome. Please checkout my contact details on the [homepage](https://www.lovetoautomate.it).
 
 ## References
 
