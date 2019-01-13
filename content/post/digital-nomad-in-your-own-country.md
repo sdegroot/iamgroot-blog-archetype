@@ -15,6 +15,8 @@ keywords:
 - freelance
 - houseboat
 
+thumbnailImage: /images/travelling/amsterdam/amsterdam-logo.png
+thumbnailImagePosition: left
 coverImage: /images/travelling/amsterdam/amsterdam-boat-canal.jpg
 #thumbnailImage: //example.com/image.jpg
 ---
