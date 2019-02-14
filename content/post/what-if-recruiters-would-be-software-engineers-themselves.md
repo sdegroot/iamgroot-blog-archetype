@@ -1,6 +1,6 @@
 ---
 title: "What if recruiters would be software engineers themselves?"
-date: 2019-02-11T20:41:40+01:00
+date: 2019-02-14T07:00:00+01:00
 categories:
 - recruitment
 tags:
