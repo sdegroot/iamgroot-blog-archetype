@@ -29,11 +29,11 @@ thumbnailImagePosition: left
 coverImage: /images/recruitment/select-people.jpg
 ---
 
-Most people in my profession will recognize the struggle. You're receiving several messages a day from recruiters. On one hand, this makes you very happy because it means that there is a lot of work and, you are wanted! Though, there is anther side to this story: the recruiters. Some would call it a love-hate relationship. But, what is actually happening here? And can we maybe change it for the better? 
+Most people in my profession will recognize the struggle. You're receiving several messages a day from recruiters. On one hand, this makes you very happy because it means that there is a lot of work and, you are wanted! Though, there is another side to this story: the recruiters. Some would call it a love-hate relationship. But, what is actually happening here? And can we maybe change it for the better? 
 
 <!--more-->
 
-Information Technology is everywhere. For one day, try to avoid all interaction with computer systems. This is next to impossible. Even if you put away your computer, phone, tablet, alarm clock and any other personal devices, you would still interact with a system probably at least every five minutes once. There is barely anything left that does not have a processor in it. I mean, think of these: traffic lights, trains, clocks, GPS, tapwater, central heating and there are so many more... (Smart) technology can sometimes be found in places where you wouldn't expect it. Examples are the light on your bike, your doorbell or even [your lighter](http://slighter.com/)!
+Information Technology is everywhere. For one day, try to avoid all interaction with computer systems, this is next to impossible. Even if you put away your computer, phone, tablet, alarm clock and any other personal devices, you would still interact with a system probably at least every five minutes once. There is barely anything left that does not have a processor in it. I mean, think of these: traffic lights, trains, clocks, GPS, tapwater, central heating, your creditcard and there are so many more... (Smart) technology can sometimes be found in places where you wouldn't expect it. Examples are the light on your bike, your doorbell or even [your lighter](http://slighter.com/)!
 
 This also means that there is an enormous demand for people who can build these systems... As a software engineer I feel like there is a surplus of jobs compared to the amount of skilled people. Of course, we have to take into account that not all jobs are created equal, neither are the people. And the more skills required for a certain job, the smaller the talent pool is. 
 
@@ -44,17 +44,17 @@ Recruiters are dealing with this reality every day. They are hired by companies 
 
 ## "Anyone" can become a recruiter
 
-A bold statement, maybe. But, honestly, there is quite a bit of truth to it. I am not saying that anyone can become a _good_ recruiter, but you do not need any specific education in order to learn the trade (or at least, how the trade is currently applied). In my experience recruiters usually have studied something completely unrelated to their field. Most of the times, they have some kind of background in psychology, sociology, human resource management or economics but I've already met my first Industrial Designer that turned to recruitment.
+A bold statement, maybe. But, honestly, there is quite a bit of truth to it. I am not saying that anyone can become a _good_  recruiter, but you do not need any specific education in order to learn the trade (or at least, how the trade is currently applied). In my experience recruiters usually have studied something completely unrelated to their field. Most of the times, they have some kind of background in psychology, sociology, human resource management or economics but I've already met my first Industrial Designer that turned to recruitment.
 
-I guess this is mostly due to the strain on the market. It is ridicuously difficult to get (good) software engineers. Or DevOps / Architects / etc. for that matter.
+I guess this is mostly due to the strain on the market. It is ridiculously difficult to get (good) software engineers. Or DevOps / Architects / etc. for that matter.
 
 ## LinkedIn
 
-As I said, many software engineers have a love-hate relationship with recruiters. Every developer I know says more or less the same. The are constantly "harrassed" with cold-approach messages from random recruiters. Receiving the messages by itself is not necessarily the bad part; it is the contents of those messages. Countless received messages are for positions that are totally irrelevant to your particular skillset or do not fit your personal situation. 
+As I said, many software engineers have a love-hate relationship with recruiters. Every developer I know says more or less the same. They are constantly "harassed" with cold-approach messages from random recruiters. Receiving the messages by itself is not necessarily the bad part; it is the contents of those messages. Countless received messages are for positions that are totally irrelevant to your particular skill set or do not fit your personal situation. 
 
 ![LinkedIn](/images/recruitment/linkedin.png#floatleft) 
 
-That said, I totally understand that it is very difficult to know exactly what your prospective canddiate is looking for. Most of the times you will have to make an educated guess. Unfortunately, the experience from the receiving end, is that most recruiters simply bulk send e-mails to profiles that match certain criteria on LinkedIn. Have you mentioned the word "DevOps" anywhere? Oh well, you must be looking for a DevOps job, right? Oh, now I come to think of it, "DevOps" is the thing where a developer works with business intelligence, right? - pun intended. The worst of all, is receiving an inquiry for a "Senior .NET Developer" position, when if you would have spent 1 minute on my profile, you would've realized I have exactly zero experience with .NET development. 
+That said, I totally understand that it is very difficult to know exactly what your prospective candidate is looking for. Most of the times you will have to make an educated guess. Unfortunately, the experience from the receiving end, is that most recruiters simply bulk send e-mails to profiles that match certain criteria on LinkedIn. Have you mentioned the word "DevOps" anywhere? Oh well, you must be looking for a DevOps job, right? Oh, now I come to think of it, "DevOps" is the thing where a developer works with business intelligence, right? - pun intended. The worst of all, is receiving an inquiry for a "Senior .NET Developer" position, when if you would have spent 1 minute on my profile, you would've realized I have exactly zero experience with .NET development. 
 
 ## Domain knowledge
 
@@ -62,11 +62,11 @@ Software engineers are a strange breed. They learned a craft at University (or u
 
 ![Understand](/images/recruitment/understand.jpg#floatright) 
 
-What makes software engineers special, is that they always have to breath their craft but also deeply understand the business that they're working on. If you're a software engineer at a bank; you will need to understand mortgages, loans or any other of their products. You will not be very effective if you are simply a "[code monkey](https://www.urbandictionary.com/define.php?term=code%20monkey)". In other words, software engineers need to really understand the domain.
+What makes software engineers special, is that they always have to breath their craft but also deeply understand the business that they're working on. If you're a software engineer at a bank; you will need to understand mortgages, loans or any other of their products. You will not be very effective if you are simply a "[code monkey](https://www.urbandictionary.com/define.php?term=code%20monkey)". In other words, software engineers need to really understand the domain. Besides, contrary to popular believes, any "good" software engineer also possesses good soft skills. After all, they're constantly working in teams and also working close to the "business people".
 
 Now, if we have a look at recruiters. Many recruiters have no relevant education, -experience or even personal interest in the software engineering craft. Tell me, how is it that software engineers are expected to know everything and recruiters can "brush it off". I can't remember how many times I talked to recruiters that used terms like DevOps, Angular, Maven, Compiler, Scrum, JavaScript, etc. without actually knowing what they mean. 
 
-So tell me, why is it that recruiters can get away with this?
+So tell me, why don't we expect the same from recruiters as we do from software engineers?
 
 ## Big business
 
@@ -74,7 +74,7 @@ Apparently, the recruitment business is huge. There is a vast number of recruitm
 
 ![Stack of coins](/images/recruitment/coin-stack.jpg) 
 
-Funnily enough, this 16k is **nothing** compared to what agencies can make off freelancers. I know of one guy who's rate is 100 euro an hour and the recruiter adds another 12 on top of this. This particular guy, is working on that contract for over 14 months. If you assume a month has about 140 billable hours on average, this totals the agency fee already over 23.000 euro. **And counting!***
+Funnily enough, this 16k is **nothing** compared to what agencies can make off freelancers. I know of one guy who's rate is 100 euro an hour and the recruiter adds another 12 on top of this. This particular guy, is working on that contract for over 14 months. If you assume a month has about 140 billable hours on average, this totals the agency fee already over 23.000 euro. **And counting!**
 
 And businesses are "happy" to pay for it. Crazy.
 
@@ -86,7 +86,7 @@ Unfortunately, in order to make as much profit as possible, recruitment agencies
 
 - Understand the business
 - Understand the position
-- Understand the necessary qualitifications
+- Understand the necessary qualifications
 - Know the team dynamic 
 - Know the needs of the potential candidate
 
@@ -120,14 +120,14 @@ If I were to move in recruitment (who knows?) then I would have a couple of core
 
 I would say:
 
-- You need to **keep in touch** with the software engineering trade. So become parttime recruiter or switch jobs between recruiting and development every ~ 1 year?
+- You need to **keep in touch** with the software engineering trade. So become part-time recruiter or switch jobs between recruiting and development every ~ 1 year?
 - **Network** is everything. And as a developer, it is easy to get to know other developers as you speak their language.
 - **Learn about psychology.** Talking to people is an art, you need to perfect this. 
 - **Quality above quantity.** Know the business, what they're looking for and understand your candidates!
 - Do not become a glorified search engine. Have **respect for your clients' time**.
 - **Transparency.** Keep your pricing and process transparent; avoid any bad feelings from any of your clients.
 - **The candidate is as much your client as the paying business is.** Respect them.
-- **Do not harrass anyone.** Only relevant opportunities and only relevant candidates.
+- **Do not bother anyone.** Only relevant opportunities and only relevant candidates.
 - **No expectations.** Candidates already get so many messages, just don't expect anything from them. They will appreciate it. 
 - **Full service.** You match candidates with businesses, see it through all the way. You're not done when the candidate signed. You are just waiting for the next milestone: when the candidate leaves the company.
 
@@ -141,7 +141,7 @@ As software engineer you're uniquely qualified to create tools. Tools that can h
 
 So, given that you as a developer can make the tools you need, a whole new world of possibilities open. Suddenly, you can start collecting data and perform analysis on this data. I have so many questions that I would like to have answered. I mean, how long do people stay at any given job? Why did they leave? All of the questions you would usually ask in an exit-interview, are super relevant for recruitment. 
 
-Basically, what I am saying, is: keep in touch. You are not done after a candidated signed. Signing is just one step of an indefinite process. Client retention could be more important than you realize. 
+Basically, what I am saying, is: keep in touch. You are not done after a candidate signed. Signing is just one step of an indefinite process. Client retention could be more important than you realize. 
 
 ## Concluding
 
